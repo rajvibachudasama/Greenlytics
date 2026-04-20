@@ -73,7 +73,7 @@ Combines **price tracking + sustainability awareness** to help users save money 
 - **Frontend:** HTML, CSS, JS  
 - **Database:** SQLite / PostgreSQL  
 - **Scraping:** Requests + BeautifulSoup  
-- **Charts:** Chart.js / Plotly  
+- **Charts:** Chart.js / Plotly  Check out the demo video:https://drive.google.com/file/d/1R05tZUeFh6eJyO3csFuRL3w1gdE-dhy1/view?t=7.196
 
 ---
 
